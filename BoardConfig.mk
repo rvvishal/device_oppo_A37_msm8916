@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-PLATFORM_PATH := device/oppo/A37
+PLATFORM_PATH := device/oppo/A33f
 
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := MSM8916
@@ -52,7 +52,7 @@ TARGET_KERNEL_SOURCE := kernel/oppo/msm8939
 BOARD_KERNEL_SEPARATED_DT := true
 TARGET_KERNEL_ARCH := arm64
 TARGET_CUSTOM_DTBTOOL := dtbToolOppo
-TARGET_KERNEL_CONFIG := lineageos_a37f_defconfig
+TARGET_KERNEL_CONFIG := lineageos_a33_defconfig
 
 # File System
 TARGET_FS_CONFIG_GEN := $(PLATFORM_PATH)/config.fs
