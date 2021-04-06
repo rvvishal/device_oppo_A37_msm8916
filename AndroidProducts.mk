@@ -1,8 +1,8 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_A37.mk
+    $(LOCAL_DIR)/lineage_A33f.mk
 
 # Lunch choices
 COMMON_LUNCH_CHOICES := \
-    lineage_A37-user \
-    lineage_A37-userdebug \
-    lineage_A37-eng
+    lineage_A33f-user \
+    lineage_A33f-userdebug \
+    lineage_A33f-eng
