@@ -1,4 +1,4 @@
-# Device configuration for Oppo A37(A37f, A37fw, A37m)
+# Device configuration for Oppo A33(A33f, A33fw, A33m)
 
 #################################################
 ==================================================
@@ -17,6 +17,6 @@ Rear Camera  | 8 MP, f/2.0, 1/3.2", 1.4µm, AF
 Front Camera | 5 MP, f/2.4, 1/4"
 Release Date | June 2016
 
-![oppo a37](https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a37-1.jpg)
+![oppo a33](https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a33-1.jpg)
 
-# device_oppo_A37_msm8916
+# device_oppo_A33_msm8916
